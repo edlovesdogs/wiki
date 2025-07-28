@@ -1,0 +1,7 @@
+port: 3000
+
+db:
+  type: sqlite
+  storage: ./data/wiki.db
+
+logLevel: info
